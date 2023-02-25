@@ -1,4 +1,4 @@
-
+Commands \
 create-react-app calc \
 cd to calc folder \
 npm start  
