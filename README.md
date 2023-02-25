@@ -1,7 +1,7 @@
 
-create-react-app calc
-cd to calc folder
-npm start
+create-react-app calc \
+cd to calc folder \
+npm start  
 
 
 
